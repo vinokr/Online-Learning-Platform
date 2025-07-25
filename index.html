@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Online Learning Platform</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background: linear-gradient(to right, #e0f7fa, #ffffff);
       color: #333;
       margin: 0;
@@ -14,45 +15,62 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
+      background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Anna_University_Logo.svg/512px-Anna_University_Logo.svg.png');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 300px;
+      opacity: 0.95;
     }
 
     .container {
       text-align: center;
-      background: #ffffff;
-      padding: 40px;
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      background: rgba(255, 255, 255, 0.95);
+      padding: 40px 30px;
+      border-radius: 16px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+      max-width: 450px;
+      width: 90%;
+    }
+
+    .logo {
+      width: 80px;
+      margin-bottom: 20px;
     }
 
     h1 {
       color: #00796b;
-      margin-bottom: 20px;
+      margin-bottom: 30px;
+      font-size: 24px;
     }
 
     a {
+      display: inline-block;
       text-decoration: none;
-      color: #ffffff;
+      color: #fff;
       background-color: #00796b;
       padding: 12px 24px;
-      border-radius: 6px;
+      border-radius: 8px;
       font-size: 16px;
-      transition: background-color 0.3s ease;
+      margin: 12px 0;
+      transition: transform 0.3s ease, background-color 0.3s ease;
     }
 
     a:hover {
       background-color: #004d40;
+      transform: scale(1.05);
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <h1>Online Learning Platform Using UI/UX Design</h1>
-    <a href="https://github.com/vinokr/Online-Learning-Platform/blob/main/README.md">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Anna_University_Logo.svg/512px-Anna_University_Logo.svg.png" alt="Anna University Logo" class="logo" />
+    <h1>ONLINE LEARNING PLATFORM<br> Using UI/UX Design</h1>
+    <a href="https://github.com/vinokr/Online-Learning-Platform/blob/main/README.md" target="_blank">
       📌 View Project
     </a>
-    <br>
+    <br/>
     <a href="https://github.com/vinokr/Online-Learning-Platform/blob/main/VINODHINIK_PROJECT_REPORT.pdf" target="_blank">
-      📄 Click here to view Project Report
+      📄 View Project Report
     </a>
   </div>
 </body>
