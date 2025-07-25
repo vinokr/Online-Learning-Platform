@@ -3,7 +3,7 @@
 This repository contains:
 
 - 👤 User Persona (user_persona.pdf)
-- 📐 Wireframe (https://www.figma.com/design/1eY96IXZYvZqXuIVM9oJwp/Wireframe?node-id=0-1&t=FZ0RXFpyJO5cdf8z-1)
+- 📐 Wireframe [View on Figma](https://www.figma.com/design/1eY96IXZYvZqXuIVM9oJwp/Wireframe?node-id=0-1&t=FZ0RXFpyJO5cdf8z-1)
 - 🧪 Prototype [View on Figma](https://figma.com/file/your-prototype-link)
 - 🎨 Visual Assets (logo.png, colorsheet.pdf)
 
