@@ -2,7 +2,7 @@
 
 This repository contains:
 
-- 👤 User Persona (user_persona.pdf)
+- 👤 User Persona [View on Whimsical](https://github.com/vinokr/Online-Learning-Platform/blob/main/User%20persona.png)
 - 📐 Wireframe [View on Figma](https://www.figma.com/design/1eY96IXZYvZqXuIVM9oJwp/Wireframe?node-id=0-1&t=FZ0RXFpyJO5cdf8z-1)
 - 🧪 Prototype [View on Figma](https://www.figma.com/design/xF9yPKshVd0V1YQazmtdET/Prototyping?node-id=0-1&t=nPkOz390R7s5zROD-1)
 - 🎨 Visual Assets (logo.png, colorsheet.pdf)
