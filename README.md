@@ -2,7 +2,10 @@
 
 This repository contains:
 
+- 🔎 User Research [View on Google Form]()
 - 👤 User Persona [View on Whimsical](https://whimsical.com/user-persona-4SVaMFfuGnDTEa5JKTkZDY)
+- 📊 Competitive Analysis [View on PDF]()
+- 👉 Information Architecture [View on Figma](https://www.figma.com/design/Bo2bjzV6JWOpE5cw7UaE9R/Information-architecture?t=nPkOz390R7s5zROD-1)
 - 📐 Wireframe [View on Figma](https://www.figma.com/design/1eY96IXZYvZqXuIVM9oJwp/Wireframe?node-id=0-1&t=FZ0RXFpyJO5cdf8z-1)
 - 🧪 Prototype [View on Figma](https://www.figma.com/design/xF9yPKshVd0V1YQazmtdET/Prototyping?node-id=0-1&t=nPkOz390R7s5zROD-1)
 
